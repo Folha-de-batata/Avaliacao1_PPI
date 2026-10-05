@@ -1,3 +1,9 @@
+:root {
+    --primary-color: #000000;
+    --secondary-color: lightgray;
+    --text-color: #333;
+    --background-color: #f5f5f5;
+}
 .menu{
     display: flex;
     justify-content: space-evenly;
