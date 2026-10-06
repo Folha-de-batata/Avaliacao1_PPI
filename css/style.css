@@ -11,25 +11,26 @@
     height: 15vh;
     border: 1px solid #ccc;
     align-items: center;
-    position:fixed;
+    position:sticky;
     background-color: white;
     width: 99%;
     top: 1%;
 }
 #logogfig {
     left: 80px;
-    width: 100px;
+    width: 200px;
     height: auto;
     top: 15px;
     
 }
 #content{
-    margin-top: 15vh; 
+     
     padding: 20px;
-    position: sticky;
+    left: 10px;
+    top: 10px;
 }
 .menu-item {
-    font-size: 18px;
+    font-size: 25px;
     color: black;
     cursor: pointer;
     margin: 0 10px;
