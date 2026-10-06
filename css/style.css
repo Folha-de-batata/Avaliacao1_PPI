@@ -15,14 +15,10 @@
 }
 #logogfig {
     position: fixed;
-    top: 0;
-    left: 50px;
+    left: 40px;
     width: 100px;
     height: auto;
-
-    position: fixed;
-    left: 40px;
-    top: -8px;
+    top: 15px;
 }
 .menu-item {
     font-size: 18px;
