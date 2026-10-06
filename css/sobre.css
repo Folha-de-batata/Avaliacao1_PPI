@@ -1,5 +1,6 @@
 #titulo{
     justify-self: center;
+    top: 16vh;
 }
 #textinho{
     grid-area: 1 / 1 / 3 / 4; 
