@@ -13,8 +13,12 @@
     align-items: center;
 }
 #logogfig {
+    position: fixed;
+    top: 0;
+    left: 50px;
     width: 100px;
     height: auto;
+
 }
 .menu-item {
     font-size: 18px;
