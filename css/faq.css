@@ -1,0 +1,10 @@
+.pergunta{
+ cursor: pointer;
+ font-size: 18px;
+ font-color: --text-color;
+}
+.resposta{
+ margin-bottom: 0px;
+ font-size: 16px;
+ font-color: --text-color;
+}
