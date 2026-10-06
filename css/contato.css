@@ -15,3 +15,15 @@
             font-size: 20px;
             margin-bottom: 10px;
         }
+        @media screen and (max-width: 768px) {
+            #content {
+                grid-template: 1fr 1fr 1fr / 1fr 1fr ;
+                height: auto; 
+                justify-self: center;
+                align-items: center;
+            }
+            .social-media-text {
+                font-size: 16px;
+                margin-bottom: 5px;
+            }
+        }
