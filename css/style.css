@@ -26,3 +26,16 @@
     cursor: pointer;
     margin: 0 10px;
 }
+@media screen and (max-width: 768px) {
+    .menu {
+        height: auto;
+    }
+    .menu-item {
+        margin: 5px 0;
+    }
+    #logogfig {
+        position: static;
+        width: 80px;
+        margin-bottom: 10px;
+    }
+}

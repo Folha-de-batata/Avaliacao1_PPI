@@ -43,29 +43,26 @@
         }
         @media screen and (max-width: 768px) {
             #content {
-                grid-template: 1fr 0.8fr 0.3fr / 1fr 1fr;
+                grid-template: 1fr 1fr 0.8fr 0.3fr / 1fr 0.8fr 1fr;
             }
             #foguete {
-                grid-area: 1 / 2 / 3 / 3; 
-                font-size: 3rem;
+                grid-area: 3/ 2 / 3 / 3; 
+                font-size: 2rem;
+                
             }
             #terra {
-                grid-area: 2 / 1 / 3 / 2; 
+                grid-area: 3 / 2 / 3 / 2; 
                 font-size: 4rem;
             }
             #vermaisButton {
-                grid-area: 3 / 1 / 4 / 3; 
+                grid-area: 4 / 2 / 4 / 3; 
                 font-size: 0.8rem;
-                width: 30%;
+                width: 50%;
                 justify-self: center;
                 align-self: center;
             }
             #info {
-                grid-area: 1 / 1 / 2 / 3; 
-                font-size: 0.8rem;
-            }
-            #info {
-                grid-area: 1 / 1 / 2 / 3; 
-                font-size: 0.8rem;
+                grid-area: 1 / 1 / 3 / 4; 
+                font-size: 0.8rem;           
             }
         }
