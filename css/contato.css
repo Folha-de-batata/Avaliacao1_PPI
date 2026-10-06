@@ -1,4 +1,4 @@
-#content {
+        #content {
             display: grid;
             grid-template: 1fr 1fr 1fr / 1fr 1fr ;
             height: 80vh; 
@@ -12,6 +12,6 @@
             cursor: pointer;
         }
         .social-media-text {
-            font-size: 18px;
+            font-size: 20px;
             margin-bottom: 10px;
         }
