@@ -5,10 +5,14 @@
     height: 15vh;
     border-bottom: 1px solid #ccc;
     align-items: center;
+  
 }
 #logogfig {
     width: 100px;
     height: auto;
+    position: fixed;
+    left: 40px;
+    top: -8px;
 }
 .menu-item {
     font-size: 18px;
